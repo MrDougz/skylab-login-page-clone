@@ -1,4 +1,4 @@
 # Skylab login page clone
 
-Projeto feito de Declarative UI feito com Next.js, React,<br />
+Projeto feito com Declarative UI, Next.js, React.js,<br />
 Desing System e TypeScript.
